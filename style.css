@@ -60,6 +60,8 @@ nav {
 
 .right > img {
   width: 2.5vmax;
+  margin:1vmax;
+  cursor: pointer;
 }
 
 .home {
